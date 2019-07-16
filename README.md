@@ -17,7 +17,11 @@ Project Details :-
 References :-
 
 [1] FUNDAMENTALS OF Database Systems - Ramez Elmasri and Shamkant B. Navathe
+
 [2] URL - www.w3schools.com/html/default.asp
+
 [3] URL - www.w3schools.com/php7/default.asp
+
 [4] URL - www.udemy.com/social-network-in-php-mysql/
+
 [5] URL - www.w3schools.com/sql/
